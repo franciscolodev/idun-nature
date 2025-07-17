@@ -1,6 +1,6 @@
 import React from "react";
 import Image from "next/image";
-import product_img01 from "@/images/products/product01.JPG";
+import product_img01 from "@/images/products/product01.jpg";
 import product_img02 from "@/images/products/product02.JPG";
 import product_img03 from "@/images/products/product03.JPG";
 import product_img04 from "@/images/products/product02.png";
