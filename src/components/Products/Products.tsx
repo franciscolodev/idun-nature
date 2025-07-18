@@ -1,8 +1,8 @@
 import React from "react";
-import product_img01 from "@/images/products/product03.JPG";
+import product_img01 from "@/images/products/product03.jpg";
 import product_img02 from "@/images/products/product02.png";
 import product_img03 from "@/images/products/product03.png";
-import product_img04 from "@/images/products/product07.JPG";
+import product_img04 from "@/images/products/product07.jpg";
 
 import "@/components/Products/products.scss";
 import { link } from "fs";
@@ -89,7 +89,7 @@ const Products = () => {
                   transition-transform 
                   duration-300 
                   ease-in-out 
-                  group-hover:scale-300 
+                  group-hover:scale-105
                   group-hover:shadow-[0_0_25px_rgba(34,197,94,0.4)]
                   cursor-pointer 
                   rounded-x1"
