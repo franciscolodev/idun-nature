@@ -1,7 +1,7 @@
 <p align="center">
     <img src="./src/images/idun-logo.png" height="350"/>
 </p>
-<h1 align="center">Idún Nature website</h1>
+<h1 align="center">Idún Nature</h1>
 
 ## Technologies
 Used:
